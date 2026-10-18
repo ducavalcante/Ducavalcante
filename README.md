@@ -18,7 +18,8 @@
 
 ###
 
-<p data-importer="text" align="center">Economics undergraduate at UFGD. Intermediate R user, exploring Data Science and Data Analysis to apply quantitative methods in economic and social challenges.</p>
+<p data-importer="text" align="center">Hey there 👋 Economics undergraduate at UFGD. Skilled in R, Excel, and SAP with experience in cost control and quality systems. Passionate about applying data analysis to economic and industrial challenges.
+</p>
 
 ###
 
