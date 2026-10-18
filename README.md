@@ -11,7 +11,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hey there 👋 Economics undergraduate, curious about data and technology.</h1>
+<h1 data-importer="text" align="center">Hey there! 👋 Economics undergraduate student, curious about data and technology.</h1>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p data-importer="text" align="center">Hey there 👋 I'm Economics undergraduate at UFGD with technical training in Administration and Logistics. Experience in agroindustry, ethanol from corn & sugarcane, cost control, quality systems, and data analysis using R, Excel, and SAP. Passionate about applying quantitative methods to economic, financial, and industrial challenges.</p>
+<p data-importer="text" align="center">I'm an Economics undergraduate student at UFGD with technical training in Administration and Logistics. I have experience in the agroindustry (specifically the corn and sugarcane ethanol sector), cost control, quality systems, and data analysis using R, Excel, and SAP. I am passionate about applying quantitative methods to solve economic, financial, and industrial challenges.</p>
 
 ###
 
