@@ -19,7 +19,7 @@
 
 ###
 
-<p data-importer="text" align="center">Hey there 👋 Economics undergraduate at UFGD with technical training in Administration and Logistics. Experience in agroindustry, ethanol from corn & sugarcane, cost control, quality systems, and data analysis using R, Excel, and SAP. Passionate about applying quantitative methods to economic, financial, and industrial challenges.</p>
+<p data-importer="text" align="center">Hey there 👋 I'm Economics undergraduate at UFGD with technical training in Administration and Logistics. Experience in agroindustry, ethanol from corn & sugarcane, cost control, quality systems, and data analysis using R, Excel, and SAP. Passionate about applying quantitative methods to economic, financial, and industrial challenges.</p>
 
 ###
 
