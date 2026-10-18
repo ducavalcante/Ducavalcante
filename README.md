@@ -3,14 +3,15 @@
 </div>
 
 ###
-
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" www.linkedin.com/in/rauanduartecavalcante />
+  <a href="https://www.linkedin.com/in/rauanduartecavalcante" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/>
+  </a>
 </div>
 
 ###
 
-<h1 data-importer="text" align="center">Hey there 👋 Economist student, curious about data and technology.</h1>
+<h1 data-importer="text" align="center">Hey there 👋 Economics undergraduate, curious about data and technology.</h1>
 
 ###
 
