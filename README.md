@@ -10,7 +10,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hey there 👋 Economist in training, curious about data and technology.</h1>
+<h1 data-importer="text" align="center">Hey there 👋 Economist student, curious about data and technology.</h1>
 
 ###
 
@@ -18,8 +18,7 @@
 
 ###
 
-<p data-importer="text" align="center">Hey there 👋 Economics undergraduate at UFGD. Skilled in R, Excel, and SAP with experience in cost control and quality systems. Passionate about applying data analysis to economic and industrial challenges.
-</p>
+<p data-importer="text" align="center">Hey there 👋 Economics undergraduate at UFGD with technical training in Administration and Logistics. Experience in agroindustry, ethanol from corn & sugarcane, cost control, quality systems, and data analysis using R, Excel, and SAP. Passionate about applying quantitative methods to economic, financial, and industrial challenges.</p>
 
 ###
 
@@ -33,16 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=ducavalcante&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
